@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_3d1ec63cc82787c3227d318b63bc33c58707999f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_aeabee5bb802d66b0ebdf65d7d3f348d3f38884f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18b0ea59439e02d04738ee1e6135c787889b4a3a">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c0968a6a7bca08a7baf691a451acc4e1236b4d45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_cef2adb3533a0eb44dd4ab7643710db079ea39fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.1.0_382d052614dc03e38f58a9121627d7d806637f37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_ea6c7e5485363f529b308dd7fc56cd3f0f61bb1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_764ec67de0fdebd3dd87844d69950c36cff969a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/libs/mina-core-2.0.16.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f720f17643eaa7b0fec07c1d7f6272972c02bba4">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/2/mina-core-2.0.16_02450c20035745a6b19d4089d94a1b964d38a645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_8de2c34eb184881cbdf2a410b513f5c28c8c693b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_f4d0bac12133071d052cd40ea3c477c01bfe8203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_fc31b798c6b216f0416b844d0e89f2a0a2de0097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c72254cefb3ec656a544980d7b007bb403d2720">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69e4322aad6cf850414c0a15d626591dc3f35fb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_0b6400efbcc2dd88fda056f3a73c34bc6303d8e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_d21e69905c159d07a4662da1f4333dce884c0d73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex.rxjava2-rxandroid-2.0.1_bcfaabb897a10a94354826d2504a69e2799c4d56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_93f9355378b97150ad0a3240630bbfde2d516d62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/libs/slf4j-android-1.6.1-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="/Users/huanghongfa/Desktop/sctek/sctek_project/mina/MinaClient/app/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-android-1.6.1-RC1_d36a4106dbde725aa31dde60dd65c5ad0c20fe24/classes.dex" />
+    </item>
+
+</items>
